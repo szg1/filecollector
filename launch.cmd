@@ -1,0 +1,3 @@
+echo off
+python3 .\datgat.py
+set /p DUMMY=Hit ENTER to continue...
